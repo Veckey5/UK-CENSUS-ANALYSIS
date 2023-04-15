@@ -8,7 +8,11 @@ The census data has been attached as a file here.
 Knime software was used to carry out:
 
 a. basic statistics
+
 b. classification
+
 c. regression
+
 d. clustering
+
 e. association rule mining
